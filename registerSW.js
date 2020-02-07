@@ -1,1 +1,1 @@
-var SWVersion="5.16.0";window.addEventListener("load",function(){"serviceWorker"in navigator&&navigator.serviceWorker.register(`/sw.js?v=${SWVersion}`).catch(function(e){console.log("ServiceWorker registration failed: ",e)})});
+var SWVersion="5.16.1";window.addEventListener("load",function(){"serviceWorker"in navigator&&navigator.serviceWorker.register(`/sw.js?v=${SWVersion}`).catch(function(e){console.log("ServiceWorker registration failed: ",e)})});
