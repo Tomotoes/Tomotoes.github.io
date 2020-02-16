@@ -8,6 +8,22 @@
     </url>
 
     <url>
+        <loc>https://tomotoes.com/blog/old-resume/</loc>
+        <lastmod>2020-02-16T04:22:42.774Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/resume/</loc>
+        <lastmod>2020-02-16T04:22:08.068Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://tomotoes.com/blog/jetbrains-ide-efficient-shortcuts/</loc>
         <lastmod>2020-02-12T05:41:58.624Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -146,22 +162,6 @@
     <url>
         <loc>https://tomotoes.com/blog/how-to-blog-elegantly/</loc>
         <lastmod>2020-02-12T05:27:51.839Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/resume/</loc>
-        <lastmod>2020-02-12T05:27:35.275Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/old-resume/</loc>
-        <lastmod>2020-02-12T05:27:18.869Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
