@@ -8,16 +8,8 @@
     </url>
 
     <url>
-        <loc>https://tomotoes.com/blog/build-static-site-generator-nodejs/</loc>
-        <lastmod>2020-02-29T07:08:48.394Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/2019/</loc>
-        <lastmod>2020-02-29T06:52:36.678Z</lastmod>
+        <loc>https://tomotoes.com/blog/scrcpy-gui/</loc>
+        <lastmod>2020-03-01T14:44:52.050Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -25,7 +17,167 @@
 
     <url>
         <loc>https://tomotoes.com/blog/the-top-10-most-common-mistakes-ive-seen-in-go-projects/</loc>
-        <lastmod>2020-02-29T04:06:43.321Z</lastmod>
+        <lastmod>2020-03-01T14:44:04.002Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/open-source-homepage-for-tomotoes/</loc>
+        <lastmod>2020-03-01T14:42:21.004Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/server-security-manual/</loc>
+        <lastmod>2020-03-01T14:40:33.367Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/grammar-of-vim-cultivation-cheats/</loc>
+        <lastmod>2020-03-01T14:38:27.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/you-dont-know-the-margin-attribute/</loc>
+        <lastmod>2020-03-01T14:37:08.409Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/git-training-manual/</loc>
+        <lastmod>2020-03-01T14:34:17.927Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/webpack-flight-manual/</loc>
+        <lastmod>2020-03-01T14:33:29.915Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/vscode-efficient-shortcuts/</loc>
+        <lastmod>2020-03-01T14:33:17.433Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/learning-less-seeing-this-is-enough/</loc>
+        <lastmod>2020-03-01T14:33:05.168Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/simplified-chinese-and-traditional-chinese-switching/</loc>
+        <lastmod>2020-03-01T14:33:01.725Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/magic-bit-operation/</loc>
+        <lastmod>2020-03-01T14:32:58.522Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/resurrect-your-capslock-key/</loc>
+        <lastmod>2020-03-01T14:32:49.719Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/server-initialization-step/</loc>
+        <lastmod>2020-03-01T14:32:40.965Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/ccut-confession-wall-system/</loc>
+        <lastmod>2020-03-01T14:27:18.613Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/chain-forward-star/</loc>
+        <lastmod>2020-03-01T14:22:40.226Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/order-of-vim-cultivation-cheats/</loc>
+        <lastmod>2020-03-01T14:21:16.939Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/hdu1874-problem/</loc>
+        <lastmod>2020-03-01T14:18:35.909Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/yesterday/</loc>
+        <lastmod>2020-03-01T14:11:46.826Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/2019/</loc>
+        <lastmod>2020-03-01T14:11:18.767Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/apple-a-construction-company/</loc>
+        <lastmod>2020-03-01T14:10:17.953Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/how-to-blog-elegantly/</loc>
+        <lastmod>2020-03-01T14:09:08.398Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -33,7 +185,23 @@
 
     <url>
         <loc>https://tomotoes.com/blog/tomotoes/</loc>
-        <lastmod>2020-02-29T02:29:48.429Z</lastmod>
+        <lastmod>2020-03-01T14:07:53.692Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/build-static-site-generator-nodejs/</loc>
+        <lastmod>2020-03-01T14:06:30.996Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/30s-javascript-function/</loc>
+        <lastmod>2020-03-01T14:04:45.139Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -64,184 +232,8 @@
     </url>
 
     <url>
-        <loc>https://tomotoes.com/blog/ccut-confession-wall-system/</loc>
-        <lastmod>2020-02-12T05:41:35.975Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/open-source-homepage-for-tomotoes/</loc>
-        <lastmod>2020-02-12T05:38:10.656Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/server-initialization-step/</loc>
-        <lastmod>2020-02-12T05:37:50.507Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/scrcpy-gui/</loc>
-        <lastmod>2020-02-12T05:37:39.103Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/vscode-efficient-shortcuts/</loc>
-        <lastmod>2020-02-12T05:37:27.575Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/simplified-chinese-and-traditional-chinese-switching/</loc>
-        <lastmod>2020-02-12T05:36:58.691Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/a-bloody-case-of-website-missing/</loc>
-        <lastmod>2020-02-12T05:35:33.261Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/hexo-introduction/</loc>
-        <lastmod>2020-02-12T05:35:08.162Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/hdu1874-problem/</loc>
-        <lastmod>2020-02-12T05:31:27.487Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/chain-forward-star/</loc>
-        <lastmod>2020-02-12T05:31:10.512Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://tomotoes.com/blog/prison-thoughts/</loc>
         <lastmod>2020-02-12T05:30:42.446Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/yesterday/</loc>
-        <lastmod>2020-02-12T05:30:31.991Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/magic-bit-operation/</loc>
-        <lastmod>2020-02-12T05:30:14.538Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/git-training-manual/</loc>
-        <lastmod>2020-02-12T05:29:15.081Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/how-to-blog-elegantly/</loc>
-        <lastmod>2020-02-12T05:27:51.839Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/webpack-flight-manual/</loc>
-        <lastmod>2020-02-05T09:09:03.035Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/apple-a-construction-company/</loc>
-        <lastmod>2020-02-05T09:05:28.832Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/learning-less-seeing-this-is-enough/</loc>
-        <lastmod>2020-02-05T09:05:09.269Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/server-security-manual/</loc>
-        <lastmod>2020-02-05T09:03:44.824Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/resurrect-your-capslock-key/</loc>
-        <lastmod>2020-02-05T09:02:54.317Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/you-dont-know-the-margin-attribute/</loc>
-        <lastmod>2020-02-05T09:02:23.533Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/grammar-of-vim-cultivation-cheats/</loc>
-        <lastmod>2019-05-20T10:26:55.168Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/order-of-vim-cultivation-cheats/</loc>
-        <lastmod>2019-05-20T07:23:34.394Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

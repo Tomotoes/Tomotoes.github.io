@@ -8,22 +8,71 @@
     </url>
 
     <url>
+        <loc>https://tomotoes.com/blog/categories/%25E5%25BC%2580%25E6%25BA%2590/</loc>
+        <lastmod>2020-03-01T14:44:52.050Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://tomotoes.com/blog/categories/%25E5%2590%258E%25E7%25AB%25AF/</loc>
-        <lastmod>2020-02-29T07:08:48.394Z</lastmod>
+        <lastmod>2020-03-01T14:44:04.002Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/categories/Linux/</loc>
+        <lastmod>2020-03-01T14:40:33.367Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/categories/%25E5%25B7%25A5%25E5%2585%25B7/</loc>
+        <lastmod>2020-03-01T14:38:27.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/categories/%25E5%2589%258D%25E7%25AB%25AF/</loc>
+        <lastmod>2020-03-01T14:37:08.409Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://tomotoes.com/blog/categories/%25E9%259A%258F%25E7%25AC%2594/</loc>
-        <lastmod>2020-02-29T06:52:36.678Z</lastmod>
+        <lastmod>2020-03-01T14:27:18.613Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/categories/%25E7%25AE%2597%25E6%25B3%2595/</loc>
+        <lastmod>2020-03-01T14:22:40.226Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/categories/%25E8%25AF%2597%25E8%25AF%258D/</loc>
+        <lastmod>2020-03-01T14:11:46.826Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://tomotoes.com/blog/categories/%25E5%258D%259A%25E5%25AE%25A2/</loc>
-        <lastmod>2020-02-29T02:29:48.429Z</lastmod>
+        <lastmod>2020-03-01T14:09:08.398Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/categories/%25E6%25BA%2590%25E7%25A0%2581/</loc>
+        <lastmod>2020-03-01T14:04:45.139Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -31,48 +80,6 @@
     <url>
         <loc>https://tomotoes.com/blog/categories/%25E7%25AE%2580%25E5%258E%2586/</loc>
         <lastmod>2020-02-16T04:22:42.774Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/categories/%25E5%25B7%25A5%25E5%2585%25B7/</loc>
-        <lastmod>2020-02-12T05:41:58.624Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/categories/%25E5%25BC%2580%25E6%25BA%2590/</loc>
-        <lastmod>2020-02-12T05:38:10.656Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/categories/%25E5%2589%258D%25E7%25AB%25AF/</loc>
-        <lastmod>2020-02-12T05:36:58.691Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/categories/%25E7%25AE%2597%25E6%25B3%2595/</loc>
-        <lastmod>2020-02-12T05:31:27.487Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/categories/%25E8%25AF%2597%25E8%25AF%258D/</loc>
-        <lastmod>2020-02-12T05:30:42.446Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/categories/Linux/</loc>
-        <lastmod>2020-02-05T09:03:44.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
