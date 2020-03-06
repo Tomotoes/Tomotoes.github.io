@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://tomotoes.com/blog/open-source-homepage-for-tomotoes/</loc>
+        <lastmod>2020-03-06T08:02:13.729Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://tomotoes.com/blog/scrcpy-gui/</loc>
         <lastmod>2020-03-01T14:44:52.050Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -18,14 +26,6 @@
     <url>
         <loc>https://tomotoes.com/blog/the-top-10-most-common-mistakes-ive-seen-in-go-projects/</loc>
         <lastmod>2020-03-01T14:44:04.002Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/open-source-homepage-for-tomotoes/</loc>
-        <lastmod>2020-03-01T14:42:21.004Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

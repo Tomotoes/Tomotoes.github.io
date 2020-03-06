@@ -4,7 +4,21 @@
 
     <url>
         <loc>https://tomotoes.com/blog/tags/%25E5%25BC%2580%25E6%25BA%2590/</loc>
-        <lastmod>2020-03-01T14:44:52.050Z</lastmod>
+        <lastmod>2020-03-06T08:02:13.729Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/tags/%25E5%258D%259A%25E5%25AE%25A2/</loc>
+        <lastmod>2020-03-06T08:02:13.729Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://tomotoes.com/blog/tags/%25E5%2589%258D%25E7%25AB%25AF/</loc>
+        <lastmod>2020-03-06T08:02:13.729Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -33,20 +47,6 @@
     <url>
         <loc>https://tomotoes.com/blog/tags/%25E5%2590%258E%25E7%25AB%25AF/</loc>
         <lastmod>2020-03-01T14:44:04.002Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/tags/%25E5%258D%259A%25E5%25AE%25A2/</loc>
-        <lastmod>2020-03-01T14:42:21.004Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://tomotoes.com/blog/tags/%25E5%2589%258D%25E7%25AB%25AF/</loc>
-        <lastmod>2020-03-01T14:42:21.004Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
