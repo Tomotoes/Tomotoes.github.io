@@ -9,7 +9,7 @@ Disallow: /blog/css/
 Disallow: /blog/admin/
 Disallow: /images/
 
-Sitemap: http://tomotoes.com/sitemap.xml
+Sitemap: http://tomotoes.com/blog/sitemap.xml
 Sitemap: https://tomotoes.com/blog/post-sitemap.xml
 Sitemap: https://tomotoes.com/blog/page-sitemap.xml
 Sitemap: https://tomotoes.com/blog/category-sitemap.xml
