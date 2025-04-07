@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirect</title>
+    <script>
+        window.onload = function() {
+            var currentDomain = window.location.hostname;
+            if (currentDomain === "tomotoes.com") {
+                var newUrl = window.location.href.replace("tomotoes.com", "simonaking.com");
+                window.location.href = newUrl;
+            }
+        };
+    </script>
+</head>
+<body>
+    <p>Redirecting...</p>
+</body>
+</html>
